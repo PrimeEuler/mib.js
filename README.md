@@ -67,7 +67,8 @@ mib.GetObject(oid, function (Object) {
 									"mib-2": {
 										"system": {
 											"sysDescr": {
-												"0": "Hardware: Intel64 Family 6 Model 58 Stepping 9 AT/AT COMPATIBLE - Software: Windows Version 6.2 (Build 9200 Multiprocessor Free)"
+												"0": "Hardware: Intel64 Family 6 Model 58 Stepping 9 AT/AT COMPATIBLE 
+												- Software: Windows Version 6.2 (Build 9200 Multiprocessor Free)"
 											},
 											"sysObjectID": {
 												"0": "enterprises"
