@@ -30232,7 +30232,7 @@
             "MACRO": "MODULE-IDENTITY",
             "LAST-UPDATED": "200712140000Z",
             "ORGANIZATION": "Cisco Systems Inc.",
-            "CONTACT-INFO": "Cisco Systems\n            Customer Service\n\n            Postal: 170 W Tasman Drive\n            San Jose, CA  95134\n            USA\n\n            Tel: +1 800 553-NETS\n\n            E-mail: cs-vlans@cisco.com",
+            "CONTACT-INFO": "Cisco Systems\r\n            Customer Service\r\n\r\n            Postal: 170 W Tasman Drive\r\n            San Jose, CA  95134\r\n            USA\r\n\r\n            Tel: +1 800 553-NETS\r\n\r\n            E-mail: cs-vlans@cisco.com",
             "DESCRIPTION": "Initial version of this MIB module.",
             "OBJECT IDENTIFIER": "ciscoMgmt 68",
             "OID": "1.3.6.1.4.1.9.9.68",
@@ -30786,7 +30786,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "NOTIFICATION-TYPE",
             "STATUS": "current",
-            "DESCRIPTION": "A VMPS change notification is generated whenever\n        vmVmpsChanges is incremented. The IP address\n        of the new VMPS is sent.",
+            "DESCRIPTION": "A VMPS change notification is generated whenever\r\n        vmVmpsChanges is incremented. The IP address\r\n        of the new VMPS is sent.",
             "OBJECT IDENTIFIER": "vmNotificationsPrefix 1",
             "OID": "1.3.6.1.4.1.9.9.68.2.0.1",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmNotifications.vmNotificationsPrefix.vmVmpsChange"
@@ -30837,7 +30837,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "MODULE-COMPLIANCE",
             "STATUS": "deprecated",
-            "DESCRIPTION": "This group must be implemented by the\n        entities which support the range of VlanIndex\n        between 1024 and 4095.",
+            "DESCRIPTION": "This group must be implemented by the\r\n        entities which support the range of VlanIndex\r\n        between 1024 and 4095.",
             "OBJECT IDENTIFIER": "vmMIBCompliances 3",
             "OID": "1.3.6.1.4.1.9.9.68.3.1.3",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBCompliances.vmMIBCompliance3"
@@ -30847,7 +30847,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "MODULE-COMPLIANCE",
             "STATUS": "deprecated",
-            "DESCRIPTION": "Write access is not required. Only static(1)\n        is required to be implemented.",
+            "DESCRIPTION": "Write access is not required. Only static(1)\r\n        is required to be implemented.",
             "OBJECT IDENTIFIER": "vmMIBCompliances 4",
             "OID": "1.3.6.1.4.1.9.9.68.3.1.4",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBCompliances.vmMIBCompliance4"
@@ -30857,7 +30857,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "MODULE-COMPLIANCE",
             "STATUS": "deprecated",
-            "DESCRIPTION": "Write access is not required. Only static(1)\n        is required to be implemented.",
+            "DESCRIPTION": "Write access is not required. Only static(1)\r\n        is required to be implemented.",
             "OBJECT IDENTIFIER": "vmMIBCompliances 5",
             "OID": "1.3.6.1.4.1.9.9.68.3.1.5",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBCompliances.vmMIBCompliance5"
@@ -30867,7 +30867,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "MODULE-COMPLIANCE",
             "STATUS": "deprecated",
-            "DESCRIPTION": "Write access is not required. Only static(1)\n        is required to be implemented.",
+            "DESCRIPTION": "Write access is not required. Only static(1)\r\n        is required to be implemented.",
             "OBJECT IDENTIFIER": "vmMIBCompliances 6",
             "OID": "1.3.6.1.4.1.9.9.68.3.1.6",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBCompliances.vmMIBCompliance6"
@@ -30877,7 +30877,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "MODULE-COMPLIANCE",
             "STATUS": "current",
-            "DESCRIPTION": "Write access is not required. Only static(1)\n        is required to be implemented.",
+            "DESCRIPTION": "Write access is not required. Only static(1)\r\n        is required to be implemented.",
             "OBJECT IDENTIFIER": "vmMIBCompliances 7",
             "OID": "1.3.6.1.4.1.9.9.68.3.1.7",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBCompliances.vmMIBCompliance7"
@@ -30887,7 +30887,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "deprecated",
-            "DESCRIPTION": "A collection of objects for displaying and\n        configuring VLAN membership.",
+            "DESCRIPTION": "A collection of objects for displaying and\r\n        configuring VLAN membership.",
             "OBJECT IDENTIFIER": "vmMIBGroups 1",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.1",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmMembershipGroup"
@@ -30897,7 +30897,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects for the managing a VQP\n        client.",
+            "DESCRIPTION": "A collection of objects for the managing a VQP\r\n        client.",
             "OBJECT IDENTIFIER": "vmMIBGroups 2",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.2",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmVQPClientGroup"
@@ -30917,7 +30917,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects for conveying general\n        status information.",
+            "DESCRIPTION": "A collection of objects for conveying general\r\n        status information.",
             "OBJECT IDENTIFIER": "vmMIBGroups 4",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.4",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmStatusGroup"
@@ -30927,7 +30927,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "deprecated",
-            "DESCRIPTION": "A collection of objects for displaying and\n        configuring VLAN membership.",
+            "DESCRIPTION": "A collection of objects for displaying and\r\n        configuring VLAN membership.",
             "OBJECT IDENTIFIER": "vmMIBGroups 5",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.5",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmMembershipGroup2"
@@ -30937,7 +30937,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects providing multiVlan\n        information for VLANS with VlanIndex from \n        1024 to 4095 which are assigned to one port.",
+            "DESCRIPTION": "A collection of objects providing multiVlan\r\n        information for VLANS with VlanIndex from \r\n        1024 to 4095 which are assigned to one port.",
             "OBJECT IDENTIFIER": "vmMIBGroups 6",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.6",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vm4kVlanGroup"
@@ -30947,7 +30947,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects providing information\n        of Voice Vlan feature.",
+            "DESCRIPTION": "A collection of objects providing information\r\n        of Voice Vlan feature.",
             "OBJECT IDENTIFIER": "vmMIBGroups 7",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.7",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmVoiceVlanGroup"
@@ -30957,7 +30957,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects providing multiVlan\n        information for VLANS with VlanIndex from \n        0 to 1023 which are assigned to one port.",
+            "DESCRIPTION": "A collection of objects providing multiVlan\r\n        information for VLANS with VlanIndex from \r\n        0 to 1023 which are assigned to one port.",
             "OBJECT IDENTIFIER": "vmMIBGroups 8",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.8",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vm1kVlanGroup"
@@ -30967,7 +30967,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects for displaying and\n        configuring VLAN membership.",
+            "DESCRIPTION": "A collection of objects for displaying and\r\n        configuring VLAN membership.",
             "OBJECT IDENTIFIER": "vmMIBGroups 9",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.9",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmMembershipGroup3"
@@ -30977,7 +30977,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects providing the\n        information of CDP verification \n        of Voice Vlan feature.",
+            "DESCRIPTION": "A collection of objects providing the\r\n        information of CDP verification \r\n        of Voice Vlan feature.",
             "OBJECT IDENTIFIER": "vmMIBGroups 10",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.10",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmVoiceVlanExtGroup"
@@ -30987,7 +30987,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects providing\n        information for VLAN membership with \n        bridge port ID greater than 2048.",
+            "DESCRIPTION": "A collection of objects providing\r\n        information for VLAN membership with \r\n        bridge port ID greater than 2048.",
             "OBJECT IDENTIFIER": "vmMIBGroups 11",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.11",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmMembershipExtGroup"
@@ -30997,7 +30997,7 @@
             "ModuleName": "CISCO-VLAN-MEMBERSHIP-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "A collection of objects for the configuration\n        on VLAN creation mode when assigning a\n        non-existing VLAN to a port.",
+            "DESCRIPTION": "A collection of objects for the configuration\r\n        on VLAN creation mode when assigning a\r\n        non-existing VLAN to a port.",
             "OBJECT IDENTIFIER": "vmMIBGroups 12",
             "OID": "1.3.6.1.4.1.9.9.68.3.2.12",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoMgmt.ciscoVlanMembershipMIB.vmMIBConformance.vmMIBGroups.vmVlanCreationGroup"
@@ -31034,7 +31034,7 @@
             "MACRO": "MODULE-IDENTITY",
             "LAST-UPDATED": "200509020000Z",
             "ORGANIZATION": "Cisco Systems, Inc.",
-            "CONTACT-INFO": "Cisco Systems\n                    Customer Service\n\n                    Postal: 170 W Tasman Drive\n                    San Jose, CA 95134\n\n                    Tel: +1 800 553-NETS\n\n                    E-mail: cs-dwdm@cisco.com",
+            "CONTACT-INFO": "Cisco Systems\r\n                    Customer Service\r\n\r\n                    Postal: 170 W Tasman Drive\r\n                    San Jose, CA 95134\r\n\r\n                    Tel: +1 800 553-NETS\r\n\r\n                    E-mail: cs-dwdm@cisco.com",
             "DESCRIPTION": "The initial revision of this MIB.",
             "OBJECT IDENTIFIER": "ciscoExperiment 69",
             "OID": "1.3.6.1.4.1.9.10.69",
@@ -31606,7 +31606,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "deprecated",
-            "DESCRIPTION": "The collection of objects to allow configurations and give\n        information related to the physical layer characteristics\n        of an interface.",
+            "DESCRIPTION": "The collection of objects to allow configurations and give\r\n        information related to the physical layer characteristics\r\n        of an interface.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 1",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.1",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfGroup"
@@ -31616,7 +31616,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "deprecated",
-            "DESCRIPTION": "The collection of objects used to monitor the protocol\n        error counters on the client side and the power level\n        received on the trunk side.",
+            "DESCRIPTION": "The collection of objects used to monitor the protocol\r\n        error counters on the client side and the power level\r\n        received on the trunk side.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 2",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.2",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyStatisticsGroup"
@@ -31626,7 +31626,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The objects used for monitoring the SONET section \n        trace bytes.",
+            "DESCRIPTION": "The objects used for monitoring the SONET section \r\n        trace bytes.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 3",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.3",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhySonetSectionTraceGroup"
@@ -31636,7 +31636,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects to allow configurations and give\n        information related to the physical layer characteristics\n        of an interface.",
+            "DESCRIPTION": "The collection of objects to allow configurations and give\r\n        information related to the physical layer characteristics\r\n        of an interface.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 4",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.4",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIf2Group"
@@ -31646,7 +31646,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects used to monitor the code violation\n        and running disparity error counters.",
+            "DESCRIPTION": "The collection of objects used to monitor the code violation\r\n        and running disparity error counters.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 5",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.5",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyCVRDErrorsGroup"
@@ -31656,7 +31656,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects used to monitor CRC \n        error counters.",
+            "DESCRIPTION": "The collection of objects used to monitor CRC \r\n        error counters.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 6",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.6",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyCRCErrorsGroup"
@@ -31666,7 +31666,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects used to monitor the \n        far end ingress error indication counters for Ethernet-\n        encapsulated ESCON streams.",
+            "DESCRIPTION": "The collection of objects used to monitor the \r\n        far end ingress error indication counters for Ethernet-\r\n        encapsulated ESCON streams.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 7",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.7",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyEncapFarEndPktErrorsGroup"
@@ -31676,7 +31676,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects used to control size of\n        transmit buffer.",
+            "DESCRIPTION": "The collection of objects used to control size of\r\n        transmit buffer.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 8",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.8",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfTxBufferSizeGroup"
@@ -31686,7 +31686,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects used to control auto\n        negotiation behavior.",
+            "DESCRIPTION": "The collection of objects used to control auto\r\n        negotiation behavior.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 9",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.9",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfAutoNegGroup"
@@ -31696,7 +31696,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The object that gives information related to transmission \n         types on the client interface.",
+            "DESCRIPTION": "The object that gives information related to transmission \r\n         types on the client interface.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 10",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.10",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfGroupSup1"
@@ -31706,7 +31706,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects that are used to retrieve and\n        configure the various interface rates.",
+            "DESCRIPTION": "The collection of objects that are used to retrieve and\r\n        configure the various interface rates.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 11",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.11",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfRateGroup"
@@ -31716,7 +31716,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects to allow the oversubscription\n        configurations on an interface.",
+            "DESCRIPTION": "The collection of objects to allow the oversubscription\r\n        configurations on an interface.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 12",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.12",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfClientOvsGroup"
@@ -31726,7 +31726,7 @@
             "ModuleName": "CISCO-METRO-PHY-MIB",
             "MACRO": "OBJECT-GROUP",
             "STATUS": "current",
-            "DESCRIPTION": "The collection of objects to allow the configurations related\n        to the subrating on an interface.",
+            "DESCRIPTION": "The collection of objects to allow the configurations related\r\n        to the subrating on an interface.",
             "OBJECT IDENTIFIER": "ciscoMetroPhyMIBGroups 13",
             "OID": "1.3.6.1.4.1.9.10.69.3.2.13",
             "NameSpace": "iso.org.dod.internet.private.enterprises.cisco.ciscoExperiment.ciscoMetroPhyMIB.ciscoMetroPhyMIBConformance.ciscoMetroPhyMIBGroups.cmPhyIfClientSubrateGroup"
