@@ -1,7 +1,7 @@
 mib.js
 ======
 
-Compile management information base conversion to javascript
+MIB (management information base) conversion to javascript
 
 ### EXAMPLE mib2json.js :
 ``` 
