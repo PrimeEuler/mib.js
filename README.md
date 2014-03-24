@@ -3,7 +3,7 @@ mib.js
 
 MIB (management information base) conversion to javascript
 
-Used in:
+Component of:
 * [NMS.js](https://github.com/PrimeEuler/NMS.js)
 
 
