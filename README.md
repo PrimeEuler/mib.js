@@ -3,6 +3,11 @@ mib.js
 
 MIB (management information base) conversion to javascript
 
+Used in:
+* [NMS.js](https://github.com/PrimeEuler/NMS.js)
+
+
+
 ### EXAMPLE mib2json.js :
 ``` 
 var MIB = require('./lib/mib');
