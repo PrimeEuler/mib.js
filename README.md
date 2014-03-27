@@ -7,7 +7,7 @@ Component of:
 * [NMS.js](https://github.com/PrimeEuler/NMS.js)
 
 ToDo:
-* Parse with [marked](updatehttps://github.com/chjj/marked)
+* [Parse with marked](updatehttps://github.com/chjj/marked)
 
 
 
