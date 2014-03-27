@@ -6,6 +6,9 @@ MIB (management information base) conversion to javascript
 Component of:
 * [NMS.js](https://github.com/PrimeEuler/NMS.js)
 
+ToDo:
+* Parse with [marked](updatehttps://github.com/chjj/marked)
+
 
 
 ### EXAMPLE mib2json.js :
