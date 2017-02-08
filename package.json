@@ -1,0 +1,19 @@
+{
+  "name": "mib.js",
+  "version": "1.0.0",
+  "description": "Mib parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rojuinex/mib.js.git"
+  },
+  "author": "Caleb 'Rojuinex'  Bartholomew <caleb@echobroadband.net> (http://calebbartholomew.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rojuinex/mib.js/issues"
+  },
+  "homepage": "https://github.com/Rojuinex/mib.js#readme"
+}
