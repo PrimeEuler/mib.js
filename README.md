@@ -3,6 +3,9 @@ mib.js
 
 MIB (management information base) conversion to javascript
 
+MIB to JSON :
+*[asn2json](https://github.com/PrimeEuler/asn2json)
+
 Component of:
 * [NMS.js](https://github.com/PrimeEuler/NMS.js)
 
